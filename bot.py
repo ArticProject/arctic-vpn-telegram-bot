@@ -6,7 +6,7 @@ from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram import F
 
 # ТВОЙ ТОКЕН ОТ BOTFATHER — ВСТАВЬ СЮДА
-BOT_TOKEN = "123456789:AAHxxxxxxxxxxxxxxxxxxxxxxxxxx"  # ← замени на свой
+BOT_TOKEN = 8235229862:AAExmbHY2Osdn9VoInVktAM61sxexR9pvWw
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=BOT_TOKEN)
